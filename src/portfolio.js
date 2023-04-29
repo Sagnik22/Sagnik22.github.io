@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Automation Tester 🚀 Experienced Quality Assurance Engineer with 2+ years of experience and a demonstrated history of working in the banking industry as Automation and Manual Testing."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1K_RQuXmA6W8an1krC72SAvIgKq4VHmgK/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1hd740Zdh_QFXTV70Qk4mTbZi-HRtnyWT/view?usp=share_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -320,7 +320,7 @@ const talkSection = {
 // Podcast Section
 
 const podcastSection = {
-  title: emoji("Leadsership 🎙️"),
+  title: emoji("Leadership 🎙️"),
   subtitle:
     "I have been an active member of AIESEC and we aware people about the critical leadership skills that one should must have.",
 
